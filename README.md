@@ -8,7 +8,7 @@ This piece of code just scrapes the required information from a single web page.
 
 Scraping multiple results:
 
-In this notebook, crawling multiple pages from a main url is considered.
+In this notebook, a crawler is initialized which crawls multiple pages from a main url.
 
 
 
